@@ -5,6 +5,7 @@
     "book_author": "С. Коллинз",
     "book_rating": "4.8",
     "book_price": "5$",
+    "book_year": "2012",
     "book_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE-NPpI6MtUoGRQtBYeQXL3rGuDHCQeZkiRw&usqp=CAU"
   },
   {
@@ -13,6 +14,7 @@
     "book_author": "Дж. К. Роулинг",
     "book_rating": "4.9",
     "book_price": "7$",
+    "book_year": "1998",
     "book_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv5LSkhtsUzTbw-mES8YyDbkzIpCzBEJj3Mg&usqp=CAU"
   },
   {
@@ -21,6 +23,7 @@
     "book_author": "Дж. Арментроут",
     "book_rating": "4.9",
     "book_price": "6$",
+    "book_year": "2020",
     "book_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv5LSkhtsUzTbw-mES8YyDbkzIpCzBEJj3Mg&usqp=CAU"
   }
 ]
