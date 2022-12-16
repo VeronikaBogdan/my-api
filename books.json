@@ -14,5 +14,13 @@
     "book_rating": "4.9",
     "book_price": "7$",
     "book_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv5LSkhtsUzTbw-mES8YyDbkzIpCzBEJj3Mg&usqp=CAU"
+  },
+  {
+    "book_id": "2",
+    "book_name": "Королевство плоти и огня",
+    "book_author": "Дж. Арментроут",
+    "book_rating": "4.9",
+    "book_price": "6$",
+    "book_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv5LSkhtsUzTbw-mES8YyDbkzIpCzBEJj3Mg&usqp=CAU"
   }
 ]
