@@ -6,24 +6,67 @@
     "book_rating": "4.8",
     "book_price": "5$",
     "book_year": "2012",
+    "book_category": "Антиутопия",
     "book_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE-NPpI6MtUoGRQtBYeQXL3rGuDHCQeZkiRw&usqp=CAU"
   },
   {
     "book_id": 2,
-    "book_name": "Гарри Поттер и Философский камень",
-    "book_author": "Дж. К. Роулинг",
-    "book_rating": "4.9",
-    "book_price": "7$",
-    "book_year": "1998",
-    "book_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv5LSkhtsUzTbw-mES8YyDbkzIpCzBEJj3Mg&usqp=CAU"
+    "book_name": "Делириум",
+    "book_author": "Л. Оливер",
+    "book_rating": "4.3",
+    "book_price": "3$",
+    "book_year": "2014г",
+    "book_category": "Антиутопия",
+    "book_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE-NPpI6MtUoGRQtBYeQXL3rGuDHCQeZkiRw&usqp=CAU"
   },
   {
     "book_id": 3,
+    "book_name": "Дивергент",
+    "book_author": "В. Рот",
+    "book_rating": "4.8",
+    "book_price": "6$",
+    "book_year": "2011",
+    "book_category": "Антиутопия",
+    "book_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv5LSkhtsUzTbw-mES8YyDbkzIpCzBEJj3Mg&usqp=CAU"
+  },
+  {
+    "book_id": 4,
+    "book_name": "1984",
+    "book_author": "Дж. Оруэлл",
+    "book_rating": "4.7",
+    "book_price": "5$",
+    "book_year": "1947",
+    "book_category": "Антиутопия",
+    "book_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv5LSkhtsUzTbw-mES8YyDbkzIpCzBEJj3Mg&usqp=CAU"
+  },
+  {
+    "book_id": 5,
+    "book_name": "Сумерки",
+    "book_author": "Ст. Майер",
+    "book_rating": "4.6",
+    "book_price": "5$",
+    "book_year": "2013",
+    "book_category": "Фэнтези",
+    "book_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv5LSkhtsUzTbw-mES8YyDbkzIpCzBEJj3Mg&usqp=CAU"
+  },
+  {
+    "book_id": 6,
     "book_name": "Королевство плоти и огня",
     "book_author": "Дж. Арментроут",
     "book_rating": "4.9",
     "book_price": "6$",
     "book_year": "2020",
+    "book_category": "Фэнтези",
+    "book_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv5LSkhtsUzTbw-mES8YyDbkzIpCzBEJj3Mg&usqp=CAU"
+  },
+  {
+    "book_id": 7,
+    "book_name": "Гарри Поттер и Принц-полукровка",
+    "book_author": "Дж. К. Роулинг",
+    "book_rating": "4.9",
+    "book_price": "7$",
+    "book_year": "2005",
+    "book_category": "Фэнтези",
     "book_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv5LSkhtsUzTbw-mES8YyDbkzIpCzBEJj3Mg&usqp=CAU"
   }
 ]
