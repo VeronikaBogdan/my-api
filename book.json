@@ -7,7 +7,7 @@
     "book_price": "5$",
     "book_year": "2012",
     "book_category": "Антиутопия",
-    "book_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE-NPpI6MtUoGRQtBYeQXL3rGuDHCQeZkiRw&usqp=CAU"
+    "book_image": "https://static.onlinetrade.ru/img/items/b/golodnye_igry._i_vspykhnet_plamya._soyka_peresmeshnitsa_kollinz_syuzen__300399_3.jpg"
   },
   {
     "book_id": 2,
@@ -17,7 +17,7 @@
     "book_price": "3$",
     "book_year": "2014г",
     "book_category": "Антиутопия",
-    "book_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE-NPpI6MtUoGRQtBYeQXL3rGuDHCQeZkiRw&usqp=CAU"
+    "book_image": "https://avatars.mds.yandex.net/i?id=8fa4b8334ff9d3efed1867f0c93f0b57-3980708-images-thumbs&n=13"
   },
   {
     "book_id": 3,
@@ -27,7 +27,7 @@
     "book_price": "6$",
     "book_year": "2011",
     "book_category": "Антиутопия",
-    "book_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv5LSkhtsUzTbw-mES8YyDbkzIpCzBEJj3Mg&usqp=CAU"
+    "book_image": "https://bookprose.ru/pictures/1011447392.jpg"
   },
   {
     "book_id": 4,
@@ -37,7 +37,7 @@
     "book_price": "5$",
     "book_year": "1947",
     "book_category": "Антиутопия",
-    "book_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv5LSkhtsUzTbw-mES8YyDbkzIpCzBEJj3Mg&usqp=CAU"
+    "book_image": "https://static.onlinetrade.ru/img/items/b/1984_oruell_dzhordzh__300205_2.jpg"
   },
   {
     "book_id": 5,
@@ -47,17 +47,17 @@
     "book_price": "5$",
     "book_year": "2013",
     "book_category": "Фэнтези",
-    "book_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv5LSkhtsUzTbw-mES8YyDbkzIpCzBEJj3Mg&usqp=CAU"
+    "book_image": "https://static.onlinetrade.ru/img/items/b/novolunie_mayer_s.__743073_3.jpg"
   },
   {
     "book_id": 6,
-    "book_name": "Королевство плоти и огня",
-    "book_author": "Дж. Арментроут",
+    "book_name": "Тайна острова драконов",
+    "book_author": "О. Миклашевская",
     "book_rating": "4.9",
     "book_price": "6$",
     "book_year": "2020",
     "book_category": "Фэнтези",
-    "book_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv5LSkhtsUzTbw-mES8YyDbkzIpCzBEJj3Mg&usqp=CAU"
+    "book_image": "https://moiknigi.at/upload/iblock/174/174340737076d848075b93c88cd9804e.jpg"
   },
   {
     "book_id": 7,
@@ -67,6 +67,6 @@
     "book_price": "7$",
     "book_year": "2005",
     "book_category": "Фэнтези",
-    "book_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv5LSkhtsUzTbw-mES8YyDbkzIpCzBEJj3Mg&usqp=CAU"
+    "book_image": "https://booklavka.ru/sites/default/files/files/itempics/81temhCJoeL.jpg"
   }
 ]
