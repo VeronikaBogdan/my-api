@@ -1,0 +1,72 @@
+[
+  {
+    "guitar_id": 1,
+    "guitar_model": "Yamaha",
+    "guitar_country": "Япония",
+    "guitar_rating": "4.8",
+    "guitar_price": "5$",
+    "guitar_year": "2015",
+    "guitar_category": "Классическая",
+    "guitar_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE-NPpI6MtUoGRQtBYeQXL3rGuDHCQeZkiRw&usqp=CAU"
+  },
+  {
+    "guitar_id": 2,
+    "guitar_model": "Fender",
+    "guitar_country": "Америка",
+    "guitar_rating": "4.3",
+    "guitar_price": "3$",
+    "guitar_year": "2014г",
+    "guitar_category": "Акустика",
+    "guitar_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE-NPpI6MtUoGRQtBYeQXL3rGuDHCQeZkiRw&usqp=CAU"
+  },
+  {
+    "guitar_id": 3,
+    "guitar_model": "Ibanez",
+    "guitar_country": "Япония",
+    "guitar_rating": "4.8",
+    "guitar_price": "5$",
+    "guitar_year": "2012",
+    "guitar_category": "Акустика",
+    "guitar_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE-NPpI6MtUoGRQtBYeQXL3rGuDHCQeZkiRw&usqp=CAU"
+  },
+  {
+    "guitar_id": 4,
+    "guitar_model": "Gibson",
+    "guitar_country": "Америка",
+    "guitar_rating": "4.8",
+    "guitar_price": "5$",
+    "guitar_year": "2020",
+    "guitar_category": "Электроакустика",
+    "guitar_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE-NPpI6MtUoGRQtBYeQXL3rGuDHCQeZkiRw&usqp=CAU"
+  },
+  {
+    "guitar_id": 5,
+    "guitar_model": "Schecter",
+    "guitar_country": "Америка",
+    "guitar_rating": "4.8",
+    "guitar_price": "5$",
+    "guitar_year": "2010",
+    "guitar_category": "Полуакустика",
+    "guitar_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE-NPpI6MtUoGRQtBYeQXL3rGuDHCQeZkiRw&usqp=CAU"
+  },
+  {
+    "guitar_id": 6,
+    "guitar_model": "Epiphone",
+    "guitar_country": "Америка",
+    "guitar_rating": "4.8",
+    "guitar_price": "5$",
+    "guitar_year": "2022",
+    "guitar_category": "Электроакустика",
+    "guitar_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE-NPpI6MtUoGRQtBYeQXL3rGuDHCQeZkiRw&usqp=CAU"
+  },
+  {
+    "guitar_id": 7,
+    "guitar_model": "Jackson",
+    "guitar_country": "Германия",
+    "guitar_rating": "4.8",
+    "guitar_price": "5$",
+    "guitar_year": "2005",
+    "guitar_category": "Электрогитара",
+    "guitar_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE-NPpI6MtUoGRQtBYeQXL3rGuDHCQeZkiRw&usqp=CAU"
+  }
+]
