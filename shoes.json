@@ -1,0 +1,79 @@
+[
+  {
+    "shoes_id": 1,
+    "shoes_size": "38",
+    "shoes_country": "Япония",
+    "shoes_brand": "Nike",
+    "shoes_rating": "4.8",
+    "shoes_price": "5$",
+    "shoes_year": "2012",
+    "shoes_category": "Угги",
+    "shoes_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE-NPpI6MtUoGRQtBYeQXL3rGuDHCQeZkiRw&usqp=CAU"
+  },
+  {
+    "shoes_id": 2,
+    "shoes_size": "40",
+    "shoes_country": "Япония",
+    "shoes_brand": "Tony Lama",
+    "shoes_rating": "4.8",
+    "shoes_price": "5$",
+    "shoes_year": "2012",
+    "shoes_category": "Валенки",
+    "shoes_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE-NPpI6MtUoGRQtBYeQXL3rGuDHCQeZkiRw&usqp=CAU"
+  },
+  {
+    "shoes_id": 3,
+    "shoes_size": "37",
+    "shoes_country": "Япония",
+    "shoes_brand": "Timberland",
+    "shoes_rating": "4.8",
+    "shoes_price": "5$",
+    "shoes_year": "2012",
+    "shoes_category": "Каблуки",
+    "shoes_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE-NPpI6MtUoGRQtBYeQXL3rGuDHCQeZkiRw&usqp=CAU"
+  },
+  {
+    "shoes_id": 4,
+    "shoes_size": "39",
+    "shoes_country": "Япония",
+    "shoes_brand": "Wesco",
+    "shoes_rating": "4.8",
+    "shoes_price": "5$",
+    "shoes_year": "2012",
+    "shoes_category": "Каблуки",
+    "shoes_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE-NPpI6MtUoGRQtBYeQXL3rGuDHCQeZkiRw&usqp=CAU"
+  },
+  {
+    "shoes_id": 5,
+    "shoes_size": "36",
+    "shoes_country": "Япония",
+    "shoes_brand": "John Doe",
+    "shoes_rating": "4.8",
+    "shoes_price": "5$",
+    "shoes_year": "2012",
+    "shoes_category": "Ботфорты",
+    "shoes_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE-NPpI6MtUoGRQtBYeQXL3rGuDHCQeZkiRw&usqp=CAU"
+  },
+  {
+    "shoes_id": 6,
+    "shoes_size": "35",
+    "shoes_country": "Япония",
+    "shoes_brand": "Florsheim",
+    "shoes_rating": "4.8",
+    "shoes_price": "5$",
+    "shoes_year": "2012",
+    "shoes_category": "Оксфорды",
+    "shoes_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE-NPpI6MtUoGRQtBYeQXL3rGuDHCQeZkiRw&usqp=CAU"
+  },
+  {
+    "shoes_id": 7,
+    "shoes_size": "38",
+    "shoes_country": "Япония",
+    "shoes_brand": "Alden",
+    "shoes_rating": "4.8",
+    "shoes_price": "5$",
+    "shoes_year": "2012",
+    "shoes_category": "Мокасины",
+    "shoes_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE-NPpI6MtUoGRQtBYeQXL3rGuDHCQeZkiRw&usqp=CAU"
+  }
+]
