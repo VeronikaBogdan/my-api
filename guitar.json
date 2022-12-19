@@ -7,7 +7,7 @@
     "guitar_price": "5$",
     "guitar_year": "2015",
     "guitar_category": "Классическая",
-    "guitar_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE-NPpI6MtUoGRQtBYeQXL3rGuDHCQeZkiRw&usqp=CAU"
+    "guitar_image": "https://images.reverb.com/image/upload/s--ti_yR0K---/a_exif,c_limit,e_unsharp_mask:80,f_auto,fl_progressive,g_south,h_620,q_90,w_620/v1481580247/ifji2uo017rtqayne99s.jpg"
   },
   {
     "guitar_id": 2,
@@ -17,7 +17,7 @@
     "guitar_price": "3$",
     "guitar_year": "2014г",
     "guitar_category": "Акустика",
-    "guitar_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE-NPpI6MtUoGRQtBYeQXL3rGuDHCQeZkiRw&usqp=CAU"
+    "guitar_image": "https://d1aeri3ty3izns.cloudfront.net/media/5/51320/1200/preview.jpg"
   },
   {
     "guitar_id": 3,
@@ -27,7 +27,7 @@
     "guitar_price": "5$",
     "guitar_year": "2012",
     "guitar_category": "Акустика",
-    "guitar_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE-NPpI6MtUoGRQtBYeQXL3rGuDHCQeZkiRw&usqp=CAU"
+    "guitar_image": "https://musmag.com/images/stories/virtuemart/product/FENDER_CD-60CE_DREADNOUGHT_BLACK_W_FISHMAN_MINIQ_PREAMP.jpg"
   },
   {
     "guitar_id": 4,
@@ -37,7 +37,7 @@
     "guitar_price": "5$",
     "guitar_year": "2020",
     "guitar_category": "Электроакустика",
-    "guitar_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE-NPpI6MtUoGRQtBYeQXL3rGuDHCQeZkiRw&usqp=CAU"
+    "guitar_image": "https://www.bigtv.ru/storage/goodsImages/105/105178/clear_105178_1.jpg"
   },
   {
     "guitar_id": 5,
@@ -47,7 +47,7 @@
     "guitar_price": "5$",
     "guitar_year": "2010",
     "guitar_category": "Полуакустика",
-    "guitar_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE-NPpI6MtUoGRQtBYeQXL3rGuDHCQeZkiRw&usqp=CAU"
+    "guitar_image": "https://d1aeri3ty3izns.cloudfront.net/media/18/182836/1200/preview.jpg"
   },
   {
     "guitar_id": 6,
@@ -57,7 +57,7 @@
     "guitar_price": "5$",
     "guitar_year": "2022",
     "guitar_category": "Электроакустика",
-    "guitar_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE-NPpI6MtUoGRQtBYeQXL3rGuDHCQeZkiRw&usqp=CAU"
+    "guitar_image": "https://d1aeri3ty3izns.cloudfront.net/media/57/574393/1200/preview.jpg"
   },
   {
     "guitar_id": 7,
@@ -67,6 +67,6 @@
     "guitar_price": "5$",
     "guitar_year": "2005",
     "guitar_category": "Электрогитара",
-    "guitar_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE-NPpI6MtUoGRQtBYeQXL3rGuDHCQeZkiRw&usqp=CAU"
+    "guitar_image": "https://www.pult.ru/upload/iblock/17d/17db5399a39675c5c47a44f95de2e93c.jpg"
   }
 ]
