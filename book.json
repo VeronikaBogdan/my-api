@@ -61,12 +61,22 @@
   },
   {
     "book_id": 7,
-    "book_name": "Гарри Поттер и Принц-полукровка",
+    "book_name": "Гарри Поттер",
     "book_author": "Дж. К. Роулинг",
-    "book_rating": "4.9",
+    "book_rating": "4.5",
     "book_price": "7$",
-    "book_year": "2005",
+    "book_year": "2020",
     "book_category": "Фэнтези",
     "book_image": "https://booklavka.ru/sites/default/files/files/itempics/81temhCJoeL.jpg"
+  },
+  {
+    "book_id": 8,
+    "book_name": "Мара и Морок",
+    "book_author": "Лия Арден",
+    "book_rating": "4.5",
+    "book_price": "7$",
+    "book_year": "2020",
+    "book_category": "Фэнтези",
+    "book_image": "https://avatars.mds.yandex.net/i?id=1f893e3f0fc07062729671a24d77f6715e33c17c-8176762-images-thumbs&n=13"
   }
 ]
