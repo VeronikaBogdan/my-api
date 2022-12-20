@@ -4,7 +4,7 @@
     "guitar_model": "Yamaha",
     "guitar_country": "Япония",
     "guitar_rating": "4.9",
-    "guitar_price": "5$",
+    "guitar_price": "10$",
     "guitar_year": "2015",
     "guitar_category": "Классическая",
     "guitar_image": "https://images.reverb.com/image/upload/s--ti_yR0K---/a_exif,c_limit,e_unsharp_mask:80,f_auto,fl_progressive,g_south,h_620,q_90,w_620/v1481580247/ifji2uo017rtqayne99s.jpg"
@@ -34,7 +34,7 @@
     "guitar_model": "Gibson",
     "guitar_country": "Америка",
     "guitar_rating": "4.8",
-    "guitar_price": "5$",
+    "guitar_price": "3$",
     "guitar_year": "2020",
     "guitar_category": "Электроакустика",
     "guitar_image": "https://www.bigtv.ru/storage/goodsImages/105/105178/clear_105178_1.jpg"
@@ -44,7 +44,7 @@
     "guitar_model": "Schecter",
     "guitar_country": "Америка",
     "guitar_rating": "4.5",
-    "guitar_price": "5$",
+    "guitar_price": "7$",
     "guitar_year": "2010",
     "guitar_category": "Полуакустика",
     "guitar_image": "https://d1aeri3ty3izns.cloudfront.net/media/18/182836/1200/preview.jpg"
@@ -54,7 +54,7 @@
     "guitar_model": "Epiphone",
     "guitar_country": "Америка",
     "guitar_rating": "4.8",
-    "guitar_price": "5$",
+    "guitar_price": "8$",
     "guitar_year": "2022",
     "guitar_category": "Электроакустика",
     "guitar_image": "https://d1aeri3ty3izns.cloudfront.net/media/57/574393/1200/preview.jpg"
@@ -64,7 +64,7 @@
     "guitar_model": "Jackson",
     "guitar_country": "Германия",
     "guitar_rating": "4.6",
-    "guitar_price": "5$",
+    "guitar_price": "9$",
     "guitar_year": "2005",
     "guitar_category": "Электрогитара",
     "guitar_image": "https://www.pult.ru/upload/iblock/17d/17db5399a39675c5c47a44f95de2e93c.jpg"
