@@ -1,0 +1,117 @@
+{
+  "id": 2,
+  "title": "Построение бизнес-моделей: Настольная книга стратега и новатора",
+  "rating": 3.43,
+  "issueYear": "2019",
+  "description": "Книга предлагает оригинальную концепцию анализа, построения и совершенствования бизнес-моделей, которой пользуются крупнейшие компании мира, включая Google, IBM, Ericsson. Авторы предлагают простой и понятный способ визуального представления основных факторов, влияющих на успех любой организации: потребительские сегменты, ценностные предложения, каналы сбыта, взаимоотношения с клиентами, потоки поступления доходов, ключевые ресурсы, ключевые виды деятельности, ключевые партнеры, структура издержек. Большой лист бумаги и блок стикеров — вот и все, что понадобится для освоения авторского метода создания бизнес-моделей. А еще креативность, острый ум и упорство членов команды, работающей над проектом.\nКнига адресована предпринимателям и руководителям, которые хотели бы создать новую или реорганизовать имеющуюся модель бизнеса.",
+  "publish": "Алпина Паблишер",
+  "pages": "288",
+  "cover": "Мягкая обложка",
+  "weight": "685",
+  "format": "60x90/8",
+  "ISBN": "978-0470-87641-1",
+  "producer": "АО «Первая образцовая типография» ",
+  "authors": ["Александр Остервальдер"],
+  "images": [
+    {
+      "url": "/uploads/10209755_0_Postroenie_biznes_modeley_Nastolnaya_kniga_stratega_i_novatora_Aleksandr_Ostervalder_Iv_Pine_931aabe20f.jpg"
+    }
+  ],
+  "categories": ["Бизнес"],
+  "comments": [
+    {
+      "id": 18,
+      "rating": 3,
+      "text": "53",
+      "createdAt": "2023-01-26T18:28:10.039Z",
+      "user": {
+        "commentUserId": 14,
+        "firstName": "qwerty",
+        "lastName": "qwerty",
+        "avatarUrl": null
+      }
+    },
+    {
+      "id": 137,
+      "rating": 4,
+      "text": "dss",
+      "createdAt": "2023-03-14T11:49:48.759Z",
+      "user": {
+        "commentUserId": 156,
+        "firstName": "Alex123123",
+        "lastName": "Rud",
+        "avatarUrl": null
+      }
+    },
+    {
+      "id": 142,
+      "rating": 3,
+      "text": "3232333223",
+      "createdAt": "2023-03-14T12:04:14.608Z",
+      "user": {
+        "commentUserId": 387,
+        "firstName": "fdss",
+        "lastName": "sffs",
+        "avatarUrl": null
+      }
+    },
+    {
+      "id": 440,
+      "rating": 4,
+      "text": "fsafasfsafsafsafsa",
+      "createdAt": "2023-03-16T08:56:05.605Z",
+      "user": {
+        "commentUserId": 24,
+        "firstName": "test",
+        "lastName": "user",
+        "avatarUrl": null
+      }
+    },
+    {
+      "id": 480,
+      "rating": 5,
+      "text": "есть тут темка одна...",
+      "createdAt": "2023-03-16T15:34:46.374Z",
+      "user": {
+        "commentUserId": 406,
+        "firstName": "Andrew",
+        "lastName": "Kirichenko",
+        "avatarUrl": null
+      }
+    },
+    {
+      "id": 504,
+      "rating": 4,
+      "text": "test",
+      "createdAt": "2023-03-16T17:13:06.804Z",
+      "user": {
+        "commentUserId": 394,
+        "firstName": "Alexei",
+        "lastName": "Skutov",
+        "avatarUrl": null
+      }
+    },
+    {
+      "id": 532,
+      "rating": 1,
+      "text": "saasda",
+      "createdAt": "2023-03-16T19:15:01.465Z",
+      "user": {
+        "commentUserId": 130,
+        "firstName": "Arseni",
+        "lastName": "Shaikou",
+        "avatarUrl": null
+      }
+    }
+  ],
+  "booking": {
+    "id": 1606,
+    "order": true,
+    "dateOrder": "2023-03-16T21:00:00.000Z",
+    "customerId": 45,
+    "customerFirstName": "Egor",
+    "customerLastName": "Petukh"
+  },
+  "delivery": null,
+  "histories": null
+}

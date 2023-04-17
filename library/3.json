@@ -1,0 +1,122 @@
+{
+  "id": 3,
+  "title": "Разработка ценностных предложений: Как создавать товары и услуги, которые захотят купить потребители",
+  "rating": 3.14,
+  "issueYear": "2018",
+  "description": "В основе любой бизнес-модели лежит ценностное предложение, описывающее преимущества, которые ваши товары и услуги дают потребителю.\n\nНовый инструмент, разработанный авторами этой книги, - шаблон ценностного предложения, позволит рассмотреть все аспекты сложного процесса разработки и тестирования новых продуктов и прийти к такому варианту предложения, который выведет ваш бизнес в лидеры рынка. В книге приводится огромное число примеров разработки и анализа ценностных предложений от лучших мировых компаний, что делает ее предельно практичным инструментом для бизнеса из любой сферы.",
+  "publish": "Алпина Паблишер",
+  "pages": "312",
+  "cover": "Мягкая обложка",
+  "weight": "650",
+  "format": "60x90/8",
+  "ISBN": "978-1-118-96805-5",
+  "producer": "АО «Первая образцовая типография» ",
+  "authors": ["Александр Остервальдер"],
+  "images": [
+    {
+      "url": "/uploads/10442229_0_5d1c5827e4.jpg"
+    }
+  ],
+  "categories": ["Бизнес"],
+  "comments": [
+    {
+      "id": 101,
+      "rating": 3,
+      "text": "tttt",
+      "createdAt": "2023-03-14T09:21:33.031Z",
+      "user": {
+        "commentUserId": 85,
+        "firstName": "Анастасия",
+        "lastName": "Полешук",
+        "avatarUrl": null
+      }
+    },
+    {
+      "id": 102,
+      "rating": 4,
+      "text": "dsf",
+      "createdAt": "2023-03-14T09:22:55.332Z",
+      "user": {
+        "commentUserId": 925,
+        "firstName": "testikQweer123",
+        "lastName": "testikQweer123",
+        "avatarUrl": null
+      }
+    },
+    {
+      "id": 116,
+      "rating": 3,
+      "text": "gdsdgdgsgddg",
+      "createdAt": "2023-03-14T10:13:51.719Z",
+      "user": {
+        "commentUserId": 444,
+        "firstName": "1",
+        "lastName": "1",
+        "avatarUrl": null
+      }
+    },
+    {
+      "id": 131,
+      "rating": 3,
+      "text": "New mark",
+      "createdAt": "2023-03-14T11:26:14.449Z",
+      "user": {
+        "commentUserId": 156,
+        "firstName": "Alex123123",
+        "lastName": "Rud",
+        "avatarUrl": null
+      }
+    },
+    {
+      "id": 428,
+      "rating": 4,
+      "text": "норм",
+      "createdAt": "2023-03-16T06:56:34.136Z",
+      "user": {
+        "commentUserId": 146,
+        "firstName": "SmSka777",
+        "lastName": "SmSka777",
+        "avatarUrl": null
+      }
+    },
+    {
+      "id": 485,
+      "rating": 1,
+      "text": "sad",
+      "createdAt": "2023-03-16T16:21:04.279Z",
+      "user": {
+        "commentUserId": 130,
+        "firstName": "Arseni",
+        "lastName": "Shaikou",
+        "avatarUrl": null
+      }
+    },
+    {
+      "id": 552,
+      "rating": 4,
+      "text": "good book",
+      "createdAt": "2023-03-16T21:04:12.496Z",
+      "user": {
+        "commentUserId": 28,
+        "firstName": "Aliaksei",
+        "lastName": "Valadzko",
+        "avatarUrl": null
+      }
+    }
+  ],
+  "booking": {
+    "id": 1616,
+    "order": true,
+    "dateOrder": "2023-03-19T21:00:00.000Z",
+    "customerId": 449,
+    "customerFirstName": "keks2",
+    "customerLastName": "keks2"
+  },
+  "delivery": null,
+  "histories": [
+    {
+      "id": 78,
+      "userId": 5
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "id": 4,
+  "title": "Хулиномика 3.0: хулиганская экономика. Еще толще. Еще длиннее",
+  "rating": 3.55,
+  "issueYear": "2019",
+  "description": "Экономика - это очень скучно. Куча непонятны заумных слов и формул? Кто вам такое сказал? Экономика это интересно и просто! ",
+  "publish": "Издательство Аст",
+  "pages": "480",
+  "cover": "Твердый переплет",
+  "weight": "150",
+  "format": "84x108/32",
+  "ISBN": "978-5-17-113704-5",
+  "producer": "ООО \"Издательство АСТ\"",
+  "authors": ["Алексей Марков"],
+  "images": [
+    {
+      "url": "/uploads/10849349_0_89b742cffa.jpg"
+    }
+  ],
+  "categories": ["Бизнес"],
+  "comments": [
+    {
+      "id": 146,
+      "rating": 4,
+      "text": "sdfdsf",
+      "createdAt": "2023-03-14T12:11:24.383Z",
+      "user": {
+        "commentUserId": 156,
+        "firstName": "Alex123123",
+        "lastName": "Rud",
+        "avatarUrl": null
+      }
+    },
+    {
+      "id": 148,
+      "rating": 3,
+      "text": "Хорошая",
+      "createdAt": "2023-03-14T12:13:08.869Z",
+      "user": {
+        "commentUserId": 40,
+        "firstName": "Anton",
+        "lastName": "Star",
+        "avatarUrl": null
+      }
+    },
+    {
+      "id": 155,
+      "rating": 3,
+      "text": "sdgdgsgdsdgs",
+      "createdAt": "2023-03-14T12:22:13.316Z",
+      "user": {
+        "commentUserId": 444,
+        "firstName": "1",
+        "lastName": "1",
+        "avatarUrl": null
+      }
+    },
+    {
+      "id": 167,
+      "rating": 3,
+      "text": "Comment",
+      "createdAt": "2023-03-14T13:06:02.400Z",
+      "user": {
+        "commentUserId": 79,
+        "firstName": "Aliaksei",
+        "lastName": "Valadzko",
+        "avatarUrl": null
+      }
+    },
+    {
+      "id": 488,
+      "rating": 5,
+      "text": "asdasd",
+      "createdAt": "2023-03-16T16:27:25.363Z",
+      "user": {
+        "commentUserId": 544,
+        "firstName": "Adrian",
+        "lastName": "Dmitruk",
+        "avatarUrl": null
+      }
+    },
+    {
+      "id": 503,
+      "rating": 5,
+      "text": "ну.а нам и че? а нам и нормально!",
+      "createdAt": "2023-03-16T17:12:58.608Z",
+      "user": {
+        "commentUserId": 406,
+        "firstName": "Andrew",
+        "lastName": "Kirichenko",
+        "avatarUrl": null
+      }
+    },
+    {
+      "id": 516,
+      "rating": 1,
+      "text": "222",
+      "createdAt": "2023-03-16T17:41:57.035Z",
+      "user": {
+        "commentUserId": 642,
+        "firstName": "vitaly",
+        "lastName": "vitaly",
+        "avatarUrl": null
+      }
+    },
+    {
+      "id": 520,
+      "rating": 5,
+      "text": "so good",
+      "createdAt": "2023-03-16T18:04:12.580Z",
+      "user": {
+        "commentUserId": 744,
+        "firstName": "Dick",
+        "lastName": "Fiddler",
+        "avatarUrl": null
+      }
+    },
+    {
+      "id": 554,
+      "rating": 4,
+      "text": "af",
+      "createdAt": "2023-03-16T21:14:06.721Z",
+      "user": {
+        "commentUserId": 28,
+        "firstName": "Aliaksei",
+        "lastName": "Valadzko",
+        "avatarUrl": null
+      }
+    },
+    {
+      "id": 578,
+      "rating": 2,
+      "text": "#openToWork Frontend (Fullstack) Software Engineer | Angular, React, React Native, Node.js. Contacts: linkedin: linkedin.com/in/denis-karim-128688247; telegram: t.me/d4nzS; email: dzianiskarym@gmail.com.",
+      "createdAt": "2023-03-16T22:47:26.208Z",
+      "user": {
+        "commentUserId": 155,
+        "firstName": "Denis",
+        "lastName": "Karim",
+        "avatarUrl": null
+      }
+    },
+    {
+      "id": 654,
+      "rating": 4,
+      "text": "",
+      "createdAt": "2023-03-17T11:27:05.062Z",
+      "user": {
+        "commentUserId": 121,
+        "firstName": "Артём",
+        "lastName": "Владимирович",
+        "avatarUrl": null
+      }
+    }
+  ],
+  "booking": {
+    "id": 1575,
+    "order": true,
+    "dateOrder": "2023-03-17T14:16:04.508Z",
+    "customerId": 401,
+    "customerFirstName": "Артур",
+    "customerLastName": "Зуев"
+  },
+  "delivery": null,
+  "histories": [
+    {
+      "id": 40,
+      "userId": 6
+    }
+  ]
+}
